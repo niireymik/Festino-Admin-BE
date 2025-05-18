@@ -1,4 +1,4 @@
-# Ubuntu 베이스 이미지 선택
+# Ubuntu 베이스 이미지 선택 
 FROM ubuntu:latest
 
 # 작업 디렉터리 설정
